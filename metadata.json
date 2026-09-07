@@ -1,0 +1,8 @@
+{
+  "name": "Remix WeCare Medical Report \u0026 Pharmacy Inventory",
+  "description": "نظام تقارير التدخل الطبي وإدارة مخزون الأدوية والمستلزمات الطبية لشركة WeCare مع الخصم التلقائي وتنبيهات النواقص وصلاحيات المشرف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
