@@ -9,7 +9,7 @@ interface LoginModalProps {
 }
 
 const ROLE_LABELS: Record<UserRole, string> = {
-  '12': 'مسعف عادي',
+  '12': 'مسعف ',
   '13': 'مسعف متقدم',
   '14': 'مشرف'
 };
