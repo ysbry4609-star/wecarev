@@ -17,7 +17,7 @@ import { ReportForm } from './components/ReportForm';
 import { printReportPDF } from './utils/pdfExport';
 import { CheckCircle2, AlertCircle } from 'lucide-react';
 
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwHsUjBTs1Jmc515yxvkZVmYtSr9GoSmDAQDIhjxQLOieYMNGyO6ObQkbGL-bMLqq4m/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwB7GUO4RW6QH5Vyam6dX2NUNhbhybg2c06CIfNtIgl0lol_P4WCa7K4yrfDCBvl0KO/exec';
 
 export default function App() {
   // User Session
